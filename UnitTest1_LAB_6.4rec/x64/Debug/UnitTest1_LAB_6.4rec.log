@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1_LAB_6.4rec.cpp
+C:\Student\LAB_6.4.rec\LAB_6.4.rec\lab_6.4rec.cpp(62,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Student\LAB_6.4.rec\UnitTest1_LAB_6.4rec\UnitTest1_LAB_6.4rec.cpp(16,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Student\LAB_6.4.rec\x64\Debug\UnitTest1_LAB_6.4rec.lib and object C:\Student\LAB_6.4.rec\x64\Debug\UnitTest1_LAB_6.4rec.exp
+  UnitTest1_LAB_6.4rec.vcxproj -> C:\Student\LAB_6.4.rec\x64\Debug\UnitTest1_LAB_6.4rec.dll
